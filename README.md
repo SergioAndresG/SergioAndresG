@@ -2,4 +2,4 @@
 
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,dart,fastapi,flutter,kotlin,mysql,mysql,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,dart,fastapi,flutter,kotlin,mysql,vite)](https://skillicons.dev)
