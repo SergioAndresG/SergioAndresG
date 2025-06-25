@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/2c4b032a-0761-4692-97b1-a5ef8036730f)
+![github-header-image (2)](https://github.com/user-attachments/assets/2c6f604f-31e7-4d5f-8373-6748025ce4a5)
 
 My Skills
 
