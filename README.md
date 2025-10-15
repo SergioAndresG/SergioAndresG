@@ -1,9 +1,6 @@
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,
-dart,fastapi,flutter,
-kotlin,mysql,vite,py,
-git,github,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,dart,fastapi,flutter,kotlin,mysql,vite,py,git,github,docker)](https://skillicons.dev)
 
 
 <!-- Estadísticas de lenguajes usados -->
