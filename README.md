@@ -5,7 +5,7 @@ My Skills
 
 <!-- Estadísticas de lenguajes usados -->
 <p align="left">
-  <img src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs?username=SergioAndresG&show_icons=true&theme=dark&locale=en&layout=compact" />
+  <img src="https://tu-app.vercel.app/api/top-langs?username=SergioAndresG&show_icons=true&theme=dark" />
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
