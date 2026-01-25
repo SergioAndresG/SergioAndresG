@@ -85,8 +85,7 @@ const sergio = {
 <div align="center">
   
 <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SergioAndresG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="30%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergioAndresG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAndresG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
