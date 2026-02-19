@@ -28,18 +28,11 @@ const sergio = {
     philosophy: "Clean Code, Secure Systems, Smooth UX",
     workStyle: "Problem-solver, Detail-oriented, Team player"
 };
+
 ```
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-### 🚀 Currently
 
-- 🎓 Starting **Software Engineering** in 2026
-- 🌱 Deep diving into **Django** framework
-- 🔭 Building **automation tools** in production
-- 🔐 Passionate about **backend security**
-
-<br clear="right"/>
 
 ---
 
@@ -88,21 +81,6 @@ const sergio = {
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioAndresG&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
 </div>
 
----
-
-## 💡 Development Philosophy
-
-<div align="center">
-
-```diff
-+ Clean and maintainable code
-+ Security-first approach
-+ User-centric design
-+ Continuous learning
-+ Effective collaboration
-```
-
-</div>
 
 ---
 
